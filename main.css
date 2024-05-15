@@ -1,0 +1,8 @@
+section{
+    display: flex;
+}
+
+.buscar{
+    width: 400px;
+    border-radius: 6px;
+}
