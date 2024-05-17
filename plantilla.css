@@ -1,0 +1,6 @@
+.navb{
+    display: flex;
+}
+.buttons{
+    align-items: end;
+}
